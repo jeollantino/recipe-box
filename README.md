@@ -25,13 +25,19 @@ Spoonacular API Documentation:
 
 #### General:
 
-The app's list page consists of the following details from the API: 
+The Recipe Box Android App project utilizes the following libraries that demonstrates the app's functionality:
+- Retrofit
+- Glide
+- MVVM
+- Concurrency (Coroutine)
+
+The app's recipe list page consists of the following details from the API: 
 - Recipe Name
 - Icon 
 - Details
 - Tags
 
-The app's detail page displays a long description (if any) and other specific details for the selected recipe.
+The app's recipe detail page displays a long description and other specific information for the selected recipe.
 
 #### Persistence:
 
