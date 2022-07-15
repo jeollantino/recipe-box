@@ -14,7 +14,7 @@ You can view and download an APK file of this project using the link [here](http
 
 ### OBJECTIVE: 
 
-To create a master-detail application that provides information to users on random recipes and procedures to follow. This application should display a list of items obtained from a Spoonacular Random Recipes API and show a detailed view of each recipe.
+To create a master-detail application that provides information to users on random recipes and procedures to follow. This application should display a list of items obtained from the Spoonacular Random Recipes API and show a detailed view of each recipe.
 
 Spoonacular API Documentation: 
 <br />https://spoonacular.com/food-api/docs#Get-Random-Recipes
