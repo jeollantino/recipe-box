@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cv_container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="12dp">
+
+    <Button
+        android:id="@+id/btn_dishType"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:paddingHorizontal="3dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:layout_marginLeft="12dp"
+        android:text="---"
+        android:textAllCaps="false"
+        android:textColor="@color/fawn_dark"
+        android:textSize="10sp"
+        android:background="@drawable/bg_button_pale_spring_bud"
+        tools:ignore="MissingPrefix" />
+
+</LinearLayout>

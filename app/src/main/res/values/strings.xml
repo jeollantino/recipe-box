@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recipe Box</string>
+
+    <string name="loading_title">Loading Recipes</string>
+    <string name="loading_msg">Please wait</string>
+</resources>
